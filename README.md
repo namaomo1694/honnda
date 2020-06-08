@@ -1,4 +1,4 @@
-#本田とじゃんけんpython番。
+#本田とじゃんけん　python
 
 依存関係
 python 、pyfiglet
